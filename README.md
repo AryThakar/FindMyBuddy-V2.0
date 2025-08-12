@@ -32,6 +32,27 @@ This version includes **accounts, profiles, ranks, history tracking, leaderboard
 
 ---
 
+## 🗝 Key Concepts & Technologies in *Find My Buddy v2.0*
+
+### 👩‍💻 Programming Concepts
+- **OOP**: Java classes/objects with encapsulation and modular design.  
+- **Multi-threading**: Concurrent tasks for sounds, animations, and input.  
+- **I/O**: Console input/output with ASCII art and messages.  
+- **Exception Handling**: Safe error handling for file and DB operations.  
+- **Custom Data Structures**: Circular linked list for managing countries.  
+- **Control Flow**: Conditional statements and loops for gameplay logic.  
+
+### 🎮 Game Mechanics
+- **Authentication**: Login and account creation.  
+- **Profiles & Ranks**: Player info with performance-based rank tiers.  
+- **History & Leaderboard**: Tracks past matches and global rankings.  
+- **Friends System**: Highlights players from same/neighboring countries.  
+- **ASCII Animations & Sound**: Visual and audio feedback during gameplay.  
+- **Hacker Detection**: Blocks invalid/suspicious inputs.  
+
+
+---
+
 ## 🚀 Getting Started
 
 ### 1️⃣ Prerequisites
