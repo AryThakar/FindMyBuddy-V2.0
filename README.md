@@ -1,4 +1,4 @@
-# 🎮 Find My Buddy v2.0
+# 🎮 Find My Buddy v2.0(SEM-II)
 
 Welcome to **Find My Buddy v2.0** — a terminal-based Java game where players try to find a hidden "Buddy" in one of three cups.  
 This version includes **accounts, profiles, ranks, history tracking, leaderboard, ASCII art animations, background music, and hacker detection**.
